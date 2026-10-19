@@ -1,13 +1,5 @@
 ## 💫 About Me
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unrestt&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
 - 🎓 **Education**: 5th year of technical high school (IT Specialist)
 - 🚀 **Specialization**: Modern Web Development (**React** Ecosystem)
 - 💡 **Mindset**: Daily learning and striving for perfection in code
@@ -50,7 +42,15 @@ clean code, and continuous improvement.
 
 ## 📬 Let's Connect!
 
+
 <p align="left">
-<a href="https://www.facebook.com/bartek.kutnik.77" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="mailto:kutnik.contact@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://bartoszkutnik.pl">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/bartosz-kutnik-820a45335">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kutnik.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>

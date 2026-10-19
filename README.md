@@ -13,8 +13,10 @@
 - 💡 **Mindset**: Daily learning and striving for perfection in code
 - 🌍 **Location**: Poland 🇵🇱
 
-Frontend Developer focused on building modern, responsive, and user-friendly web applications.
-Currently exploring the React ecosystem, with a strong focus on TypeScript, clean code, and continuous improvement.
+Frontend Developer focused on building modern, responsive, 
+and user-friendly web applications.
+Currently exploring the React ecosystem, with a strong focus on TypeScript, 
+clean code, and continuous improvement.
 
 ---
 

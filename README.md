@@ -13,9 +13,8 @@
 - 💡 **Mindset**: Daily learning and striving for perfection in code
 - 🌍 **Location**: Poland 🇵🇱
 
-I am an 18-year-old aspiring Frontend Developer from Poland, currently in my 4th year of technical high school. My main focus is building modern web applications using the React ecosystem. I am dedicated to learning new technologies every day and constantly refining my coding skills.
-
-Beyond web development, I have experience with Java, Python, C#, PHP, and SQL, and I enjoy experimenting with game development in Unity. My core stack includes TypeScript, Tailwind CSS, Redux Toolkit, and TanStack Query.
+Frontend Developer focused on building modern, responsive, and user-friendly web applications.
+Currently exploring the React ecosystem, with a strong focus on TypeScript, clean code, and continuous improvement.
 
 ---
 
